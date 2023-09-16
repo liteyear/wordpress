@@ -1,0 +1,23 @@
+/* Keyframes for Cascading Fade */
+@keyframes cascading-fade {
+	0% {
+		opacity: 0;
+		transform: translateY(-10px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* Apply Cascading Fade Animation */
+.cascading-fade-text {
+	animation: cascading-fade 1s ease-in-out both;
+}
+
+/* Apply animation for fading out when scrolled out of view */
+.cascading-fade-text.fade-out {
+	animation: fade-out 1s ease-in-out forwards;
+/* Fade out */
+}
