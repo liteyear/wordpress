@@ -1,0 +1,69 @@
+<!-- wp:cover {"useFeaturedImage":true,"hasParallax":true,"dimRatio":30,"minHeight":800,"align":"full"} -->
+<div class="wp-block-cover alignfull has-parallax" style="min-height:800px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"right","align":"wide","style":{"typography":{"fontSize":"64px"}},"textColor":"background"} -->
+<h2 class="wp-block-heading alignwide has-text-align-right has-background-color has-text-color" style="font-size:64px">Designing Dreams</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.3","fontSize":"22px"}},"textColor":"luminous-vivid-orange"} -->
+<p class="has-text-align-left has-luminous-vivid-orange-color has-text-color" style="font-size:22px;line-height:1.3"><br><strong>Our Mission</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"55%"} -->
+<div class="wp-block-column" style="flex-basis:55%"><!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.3","fontSize":"15px"}},"textColor":"background","className":"@keyframes cascading-fade {   0% {     opacity: 0;     transform: translateY(-10px);   }   100% {     opacity: 1;     transform: translateY(0);   } }  /* Apply the animation to the text elements */ .cascading-fade-text {   animation: cascading-fade 1s ease-in-out both; }  /* Add a delay to each subsequent text element */ .cascading-fade-text:nth-child(2) {   animation-delay: 0.5s; }  .cascading-fade-text:nth-child(3) {   animation-delay: 1s; }"} -->
+<p class="has-text-align-left @keyframes cascading-fade { 0% opacity: 0; transform: translateY(-10px); } 100% 1; translateY(0); /* Apply the animation to text elements */ .cascading-fade-text animation: 1s ease-in-out both; Add a delay each subsequent element .cascading-fade-text:nth-child(2) animation-delay: 0.5s; .cascading-fade-text:nth-child(3) 1s; has-background-color has-text-color" style="font-size:15px;line-height:1.3"><br>Our mission is simple yet powerful: to empower businesses to thrive in the ever-evolving digital landscape. Together, we'll sculpt your brand's unique story and amplify your digital presence, ensuring that your journey is not just remarkable but unforgettable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"330px"} -->
+<div style="height:330px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:jetpack/slideshow {"autoplay":true,"delay":5,"ids":[957,958,959],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-autoplay="true" data-delay="5" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-957" data-id="957" src="https://liteyeardesign.files.wordpress.com/2023/09/nexp7_black_mannequin_b495d53e-f321-4313-b07a-d8bb1b7e88e3.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-958" data-id="958" src="https://liteyeardesign.files.wordpress.com/2023/09/nexp7_none_4808e118-29c2-490c-a819-587ed50cb52f.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-959" data-id="959" src="https://liteyeardesign.files.wordpress.com/2023/09/nexp7_none_771a4344-de1b-4023-bab3-3f5f9eb7466f-3953294853-e1694824734456.png"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow -->
+
+<!-- wp:cover {"url":"https://liteyeardesign.files.wordpress.com/2023/09/nexp7_none_193c863d-644d-49ad-a18e-22224e05eff5.png","id":955,"hasParallax":true,"dimRatio":30,"minHeight":800,"align":"full"} -->
+<div class="wp-block-cover alignfull has-parallax" style="min-height:800px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-955 has-parallax" style="background-position:50% 50%;background-image:url(https://liteyeardesign.files.wordpress.com/2023/09/nexp7_none_193c863d-644d-49ad-a18e-22224e05eff5.png)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"align":"wide","style":{"typography":{"fontSize":"64px"}},"textColor":"background"} -->
+<h2 class="wp-block-heading alignwide has-background-color has-text-color" style="font-size:64px">Delivering Results</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"55%"} -->
+<div class="wp-block-column" style="flex-basis:55%"><!-- wp:spacer {"height":"330px"} -->
+<div style="height:330px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"right","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","className":"/* Add the animation to the element with the custom class */ .fade-in-text {   opacity: 0; /* Start with the element hidden */   transform: translateY(20px); /* Start with a slight translation down */   animation: fade-in 1s ease forwards; /* Apply the animation */ }  /* Define the keyframes for the fade-in animation */ @keyframes fade-in {   0% {     opacity: 0;     transform: translateY(20px); /* Start position */   }   100% {     opacity: 1;     transform: translateY(0); /* End position */   } }"} -->
+<p class="has-text-align-right /* Add the animation to element with custom class */ .fade-in-text { opacity: 0; Start hidden transform: translateY(20px); a slight translation down animation: fade-in 1s ease forwards; Apply } Define keyframes for @keyframes 0% position 100% 1; translateY(0); End has-background-color has-text-color has-link-color"><strong>Sed lacinia consectetur ligula, a feugiat arcu facilisis vel. Curabitur venenatis hendrerit venenatis. Nulla facilisi. Curabitur id arcu nec tortor feugiat sodales.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color">"Empowering Your Digital Journey."</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"black","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"color":{"background":"#ff4400"}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-black-color has-text-color has-background has-link-color wp-element-button" href="mailto:sales@liteyeardesign.com" style="background-color:#ff4400" target="_blank" rel="noreferrer noopener"><strong>Precision</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"black","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"color":{"background":"#ff4400"}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-black-color has-text-color has-background has-link-color wp-element-button" href="mailto:sales@liteyeardesign.com" style="background-color:#ff4400" target="_blank" rel="noreferrer noopener"><strong>Excellence</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textAlign":"right","textColor":"black","style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"color":{"background":"#ff4400"}},"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-black-color has-text-color has-background has-link-color has-text-align-right wp-element-button" href="mailto:sales@liteyeardesign.com" style="background-color:#ff4400" target="_blank" rel="noreferrer noopener"><strong>Execution</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
